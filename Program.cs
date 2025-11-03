@@ -1,1 +1,1 @@
-WriteLine("Hello World");
+WriteLine("Welcome to my project!");
